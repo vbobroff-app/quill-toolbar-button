@@ -1,0 +1,15 @@
+{
+  "name": "quill-toolbar-button",
+  "version": "1.0.0",
+  "description": "quill editor custom toolbar button",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "quill",
+    "toolbar"
+  ],
+  "author": "VBobroff",
+  "license": "MIT"
+}
